@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "management-univercity": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

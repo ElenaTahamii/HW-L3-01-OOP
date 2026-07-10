@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "management -online shop": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
